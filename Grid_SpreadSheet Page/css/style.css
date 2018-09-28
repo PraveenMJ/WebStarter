@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    margin:0 auto;
+    height:200px;
+}
+
+.oddRow{
+    background-color: #FFFFFF;
+    color:#000000;
+}
+
+.evenRow{
+    background-color: #2222AF;
+    color:#FFFFFF;
+}
+
+.cell{
+    float: left;
+    border: 1px solid#000000;
+    padding: 1px 1px;
+}

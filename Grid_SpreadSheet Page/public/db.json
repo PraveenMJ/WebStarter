@@ -1,0 +1,25 @@
+{
+  "movie_details": [
+    {
+      "id": 0,
+      "movie_title": "Mission Impossible",
+      "director": "Brian De Palma",
+      "budget": "80000000",
+      "year": "1996"
+    },
+    {
+      "movie_title": "A Beautiful Mind",
+      "director": "Ron Howard",
+      "budget": "58000000",
+      "year": "2002",
+      "id": 1
+    },
+    {
+      "movie_title": "Jurassic Park",
+      "director": "Steven Spielberg",
+      "budget": "63000000",
+      "year": "1993",
+      "id": 2
+    }
+  ]
+}
